@@ -1,6 +1,6 @@
 # Overview
 
-Party WOD that creates two objects: Contacts and ContactList.  Created to test my understanding of coding standards.
+This project creates two objects: Contacts and ContactList.  Created to test my understanding of coding standards.
 
 # Installation
 
